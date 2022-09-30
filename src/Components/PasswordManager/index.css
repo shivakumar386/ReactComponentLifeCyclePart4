@@ -1,0 +1,140 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  height: 100%;
+  padding: 30px;
+  font-family: 'Roboto';
+}
+
+.app-logo {
+  width: 160px;
+  margin-bottom: 20px;
+}
+
+.main-heading {
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.user-inputs {
+  padding: 20px;
+  background-color: #5763a5;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-user-container {
+  background-color: #454f84;
+  padding: 30px;
+  border-radius: 6px;
+  width: 400px;
+}
+
+.input-elements-container {
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  margin-bottom: 30px;
+  border-radius: 4px;
+  height: 40px;
+}
+
+.input-elements {
+  border: none;
+}
+
+.input-elements:focus {
+  outline: none;
+}
+
+.input-logo {
+  height: 20px;
+  width: 20px;
+  margin: 8px;
+}
+
+.user-input-logo {
+  width: 30%;
+  height: 30%;
+  min-height: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button {
+  background-color: #0b69ff;
+  color: #fff;
+  padding: 6px 16px;
+  border: none;
+  border-radius: 4px;
+}
+
+.second-container {
+  background-color: #5763a5;
+  border-radius: 6px;
+  margin-top: 30px;
+  padding: 30px;
+  color: #ffff;
+}
+
+.sc-heading {
+  font-size: 22px;
+}
+
+.span-element {
+  border: 1px solid #fff;
+  background-color: transparent;
+  color: #fff;
+  padding: 4px;
+  margin-left: 8px;
+  border-radius: 50%;
+  font-size: 16px;
+}
+
+.sc-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sc-input {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.show-passwords-container {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.checkbox-element {
+  height: 18px;
+  width: 18px;
+}
+
+.passwords-para {
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.password-component {
+  display: flex;
+}
+
+.no-pass-container {
+  text-align: center;
+}
+
+.no-password {
+  width: 40%;
+}
